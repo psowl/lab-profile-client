@@ -24,7 +24,6 @@ class Signup extends React.Component {
           <label>Campus
           <input type="text" name="campus" value={this.state.campus} onChange={this.handleChange()}></input>
           </label>
-
         </form>
         </div>
     )
